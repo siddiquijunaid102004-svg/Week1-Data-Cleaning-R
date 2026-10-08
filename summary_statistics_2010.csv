@@ -1,0 +1,14 @@
+Statistic,Value
+Observed Count,204.0
+Missing Count,15.0
+Mean (observed),2.876450980392157
+Median,2.3440000000000003
+Std. Deviation,1.4729214836822193
+Minimum,1.003
+Maximum,7.584
+Q1,1.8
+Q3,3.6647499999999997
+IQR,1.8647499999999997
+Lower Bound,-0.9971249999999994
+Upper Bound,6.461874999999999
+Outliers,4.0
